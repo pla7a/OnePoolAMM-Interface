@@ -18,3 +18,5 @@ You are also able to deposit liquidity (in the form of the Euler and Gauss token
   - Swap A to B (and see price)
   - Approval to spend B
   - Swap B to A (and see price)
+
+Deployment scripts and testing files are also lacking as they were on old PC.
